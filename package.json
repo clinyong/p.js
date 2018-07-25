@@ -1,7 +1,7 @@
 {
   "name": "p.js",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "license": "MIT",
   "devDependencies": {
     "promises-aplus-tests": "^2.1.2"
